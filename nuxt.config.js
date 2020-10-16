@@ -41,7 +41,7 @@ module.exports = {
     '@nuxtjs/axios',
     '@nuxtjs/dotenv',
     '@nuxtjs/bulma',
-    '@nuxtjs/pwa',
+    '@nuxtjs/pwa',   // for progressive web application
   ]
 }
 
