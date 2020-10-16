@@ -1,4 +1,3 @@
-# pwa-news
 
 > Nuxt.js project
 
